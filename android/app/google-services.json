@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "136674550474",
+    "project_id": "elmostaabl-company",
+    "storage_bucket": "elmostaabl-company.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:136674550474:android:1c1296802cc45b19c0ca33",
+        "android_client_info": {
+          "package_name": "com.example.elmostaabel_company"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "136674550474-nacu3775a87001klh6545bm542rs191o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDmYwzg6E0XZhp0NfdY26469ObAEsZgLM4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "136674550474-nacu3775a87001klh6545bm542rs191o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
